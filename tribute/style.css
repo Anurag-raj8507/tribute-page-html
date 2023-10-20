@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: pink;
+    margin: 10%;
+
+}
+#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size:7vh ;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+img{
+    display: inline-block;
+    width: 100%;
+    object-fit: cover;
+}
+/* Setting font color and font
+        size of the image-caption */
+        #caption {
+            font-size: 20px;
+            margin-bottom: 15px;
+            padding: 15px;
+            font-family: Gill Sans;
+            color: black;
+        }
+ 
+        /* Styling the content of the page like-
+        padding, font-size, font color etc.*/
+        div#tribute-data {
+            background-color: rgba(15, 216, 102, 0.25);
+            box-shadow: 20px 20px 20px black;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 10px;
+            margin-top: 50px;
+        }
+ 
+        /* Styling the title of the content */
+        h1.title-APJ {
+            font-size: 35px;
+            color: white;
+            text-align: center;
+            text-shadow: 5px 5px 10px black;
+        }
+ 
+        /* Styling the link provided at the end */
+        #tribute-link {
+            text-decoration: none;
+            color: black;
+        }
+    
